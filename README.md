@@ -7,13 +7,13 @@ This is a web application developed using Django and Python's scikit-learn libra
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/wafer-fault-detection-app.git
+git clone https://github.com/rahim-khan-iitg/wafer_fault_detection.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd wafer-fault-detection-app
+cd wafer_fault_detection
 ```
 
 3. Install the required dependencies:
@@ -39,18 +39,6 @@ python manage.py runserver
 ```
 http://localhost:8000
 ```
-
-## Usage
-
-1. Create a new account or log in to an existing one.
-
-2. Upload the wafer data file in CSV format using the provided interface.
-
-3. Wait for the fault detection process to complete.
-
-4. Once the analysis is finished, view the results and visualizations on the app's dashboard.
-
-5. Repeat the process for additional wafer data files as needed.
 
 ## Contributing
 
